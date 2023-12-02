@@ -1,0 +1,62 @@
+{
+  "waypoints": [
+    {
+      "anchorPoint": {
+        "x": 14.668946623607532,
+        "y": 4.42
+      },
+      "prevControl": null,
+      "nextControl": {
+        "x": 13.380619761239522,
+        "y": 4.792183315795204
+      },
+      "holonomicAngle": -180.0,
+      "isReversal": false,
+      "velOverride": null,
+      "isLocked": false,
+      "isStopPoint": false,
+      "stopEvent": {
+        "names": [],
+        "executionBehavior": "parallel",
+        "waitBehavior": "none",
+        "waitTime": 0
+      }
+    },
+    {
+      "anchorPoint": {
+        "x": 10.5,
+        "y": 4.65
+      },
+      "prevControl": {
+        "x": 11.876993879375355,
+        "y": 4.65
+      },
+      "nextControl": null,
+      "holonomicAngle": -180.0,
+      "isReversal": false,
+      "velOverride": null,
+      "isLocked": false,
+      "isStopPoint": false,
+      "stopEvent": {
+        "names": [],
+        "executionBehavior": "parallel",
+        "waitBehavior": "none",
+        "waitTime": 0
+      }
+    }
+  ],
+  "markers": [
+    {
+      "position": 0.3636363636363636,
+      "names": [
+        "lowerWrist"
+      ]
+    },
+    {
+      "position": 0.563636363636364,
+      "names": [
+        "startRollers"
+      ]
+    }
+  ]
+}
